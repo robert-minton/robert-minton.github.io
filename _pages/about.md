@@ -47,7 +47,7 @@ My FRB website can be accessed [here](https://www.federalreserve.gov/econres/rob
 
 <div class="paper-entry">
 <strong><a href="https://www.federalreserve.gov/econres/notes/feds-notes/detecting-tariff-effects-on-consumer-prices-in-real-time-part-II-20260408.html">Detecting Tariff Effects on Consumer Prices in Real Time – Part II</a></strong><br>
-(with Madeleine Ray and Mariano Somale)<br>
+(with Madeleine Ray and <a href="https://www.marianosomale.com/">Mariano Somale</a>)<br>
 <em>Updated:</em> April 2026
 <details><summary>Abstract</summary>
 <p>In this note, we build on Minton and Somale (2025) to assess consumer price effects of additional tariffs implemented in 2025. We confirm the authors' preliminary findings that 2025's tariffs have led to statistically significant increases in prices of consumer goods more exposed to tariffs. Our estimates indicate that tariff effects on prices gradually build over time, with cumulative effects seven months after implementation consistent with our theoretical measures of full dollar-for-dollar pass-through. We estimate that the tariffs implemented through November of 2025 have raised core goods PCE prices by 3.1 percent through February 2026, explaining the entirety of excess inflation in the core goods category relative to pre-pandemic inflation rates and contributing to a 0.8 percent boost in core PCE prices as a whole. Moreover, the data so far suggest that pass-through of these tariffs is effectively complete.</p>
@@ -56,7 +56,7 @@ My FRB website can be accessed [here](https://www.federalreserve.gov/econres/rob
 
 <div class="paper-entry">
 <strong><a href="https://www.federalreserve.gov/econres/notes/feds-notes/detecting-tariff-effects-on-consumer-prices-in-real-time-20250509.html">Detecting Tariff Effects on Consumer Prices in Real Time</a></strong><br>
-(with Mariano Somale)<br>
+(with <a href="https://www.marianosomale.com/">Mariano Somale</a>)<br>
 <em>Updated:</em> May 2025<br>
 Media: <em>Financial Times</em>, <em>Reuters</em>
 <details><summary>Abstract</summary>
