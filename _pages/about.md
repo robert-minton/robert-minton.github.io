@@ -98,7 +98,7 @@ Previous version circulated as "Difference-in-Differences in the Marketplace" (<
 
 <div class="paper-entry">
 <strong><a href="https://www.anderson.ucla.edu/sites/default/files/document/2024-03/delayedinflation_in_supply_chains_manuscript.pdf">Delayed Inflation in Supply Chains: Theory and Evidence</a></strong><br>
-(with <a class="sec" href="https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/wheaton">Brian Wheaton</a>)<br>
+(with <a class="sec" href="https://www.anderson.ucla.edu/faculty-and-research/global-economics-and-management/faculty/wheaton">Brian Wheaton</a>)<br>
 <em>Updated:</em> December 2023<br>
 Reject and resubmit, <em>American Economic Review</em><br>
 <em>See also:</em> <a class="sec" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4470302">SSRN</a> &nbsp;|&nbsp; <a class="sec" href="https://www.nber.org/research/videos/2024-economics-supply-chains-robert-minton-delayed-inflation-supply-chains-theory-and-evidence">NBER Talk</a><br>
@@ -110,7 +110,7 @@ Media: <em>Wall Street Journal</em>
 
 <div class="paper-entry">
 <strong><a href="https://drive.google.com/file/d/1ZRs_N29wOtIjT6N60fHMz0MJrCF4OtqY/view?usp=sharing">Minimum Wages and the Rigid-wage Channel of Monetary Policy</a></strong><br>
-(with <a class="sec" href="https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/wheaton">Brian Wheaton</a>)<br>
+(with <a class="sec" href="https://www.anderson.ucla.edu/faculty-and-research/global-economics-and-management/faculty/wheaton">Brian Wheaton</a>)<br>
 <em>Updated:</em> September 2023
 <details><summary>Abstract</summary>
 <p>Wage rigidity induced by the minimum wage is an important channel for the transmission of monetary policy. When monetary expansion occurs, flexible prices rise while the legislated minimum wage remains fixed, falling in real terms. We show that monetary policy's employment effects are substantially larger in regions with high minimum-wage worker cost shares, robust to state-specific effects, Bartik controls for industry composition, and instrumental variables using legislated minimum wage levels. In our preferred specifications, this channel accounts for approximately 39% of total monetary policy effects when minimum-wage cost shares are elevated. We verify the mechanism by showing larger effects on near-minimum-wage than higher-wage employment. The declining minimum-wage employment share has reduced the effectiveness of monetary policy.</p>
@@ -119,7 +119,7 @@ Media: <em>Wall Street Journal</em>
 
 <div class="paper-entry">
 <strong><a href="https://drive.google.com/file/d/1wvZKYlRafRLQTWDVS1OscydRmeP1Vj9t/view?usp=sharing">Minimum Wages and Internal Migration</a></strong><br>
-(with <a class="sec" href="https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/wheaton">Brian Wheaton</a>)<br>
+(with <a class="sec" href="https://www.anderson.ucla.edu/faculty-and-research/global-economics-and-management/faculty/wheaton">Brian Wheaton</a>)<br>
 <em>Updated:</em> June 2023
 <details><summary>Abstract</summary>
 <p>We examine whether minimum wage increases affect state-to-state migration — a revealed-preference test of whether low-wage workers view minimum wage increases favorably. Our theoretical model predicts that minimum wage increases reduce net migration under competitive firm behavior but increase net migration under monopsony. Using the American Community Survey and Current Population Survey with machine-learning wage predictions, we apply four research designs (state and federal difference-in-differences and triple-differences). Each $1 minimum wage increase raises net migration by 1.5 percentage points among workers earning no more than $3 above the minimum wage, supporting the monopsonistic prediction. Effects derive primarily from reduced outmigration from states that raise their minimum wages, consistent with moving costs deterring relocation.</p>

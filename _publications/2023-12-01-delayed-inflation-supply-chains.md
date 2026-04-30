@@ -9,7 +9,7 @@ paperurl: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4470302"
 citation: "Minton, Robert, and Brian Wheaton. &quot;Delayed Inflation in Supply Chains: Theory and Evidence.&quot; Working Paper, December 2023."
 ---
 
-With [Brian Wheaton](https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/wheaton).
+With [Brian Wheaton](https://www.anderson.ucla.edu/faculty-and-research/global-economics-and-management/faculty/wheaton).
 
 Reject and resubmit, *American Economic Review*.
 

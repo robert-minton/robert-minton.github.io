@@ -9,6 +9,6 @@ paperurl: "https://drive.google.com/file/d/1wvZKYlRafRLQTWDVS1OscydRmeP1Vj9t/vie
 citation: "Minton, Robert, and Brian Wheaton. &quot;Minimum Wages and Internal Migration.&quot; Working Paper, June 2023."
 ---
 
-With [Brian Wheaton](https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/wheaton).
+With [Brian Wheaton](https://www.anderson.ucla.edu/faculty-and-research/global-economics-and-management/faculty/wheaton).
 
 [PDF](https://drive.google.com/file/d/1wvZKYlRafRLQTWDVS1OscydRmeP1Vj9t/view?usp=sharing)

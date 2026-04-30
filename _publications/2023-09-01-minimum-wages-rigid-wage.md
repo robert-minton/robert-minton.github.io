@@ -9,6 +9,6 @@ paperurl: "https://drive.google.com/file/d/1ZRs_N29wOtIjT6N60fHMz0MJrCF4OtqY/vie
 citation: "Minton, Robert, and Brian Wheaton. &quot;Minimum Wages and the Rigid-wage Channel of Monetary Policy.&quot; Working Paper, September 2023."
 ---
 
-With [Brian Wheaton](https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/wheaton).
+With [Brian Wheaton](https://www.anderson.ucla.edu/faculty-and-research/global-economics-and-management/faculty/wheaton).
 
 [PDF](https://drive.google.com/file/d/1ZRs_N29wOtIjT6N60fHMz0MJrCF4OtqY/view?usp=sharing)
