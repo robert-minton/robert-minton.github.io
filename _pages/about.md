@@ -17,6 +17,24 @@ a.sec:hover {
   color: #555 !important;
   border-bottom-color: #555;
 }
+.page__content h2 {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.25em;
+  margin-top: 2.5em;
+  margin-bottom: 1.25em;
+  letter-spacing: 0.02em;
+}
+.paper-entry {
+  margin-bottom: 1.5em;
+  line-height: 1.6;
+}
+.paper-entry details {
+  margin-top: 0.2em;
+}
+.paper-entry details summary {
+  color: #666;
+  font-size: 0.92em;
+}
 </style>
 
 I am an economist in the Prices and Wages section at the Federal Reserve Board. My interests include macroeconomics, labor economics, and price theory.
@@ -27,7 +45,7 @@ My FRB website can be accessed [here](https://www.federalreserve.gov/econres/rob
 
 ## Policy Notes
 
-<div style="margin-bottom:1em">
+<div class="paper-entry">
 <strong><a href="https://www.federalreserve.gov/econres/notes/feds-notes/detecting-tariff-effects-on-consumer-prices-in-real-time-part-II-20260408.html">Detecting Tariff Effects on Consumer Prices in Real Time – Part II</a></strong><br>
 (with Madeleine Ray and Mariano Somale)<br>
 <em>Updated:</em> April 2026
@@ -36,7 +54,7 @@ My FRB website can be accessed [here](https://www.federalreserve.gov/econres/rob
 </details>
 </div>
 
-<div style="margin-bottom:1em">
+<div class="paper-entry">
 <strong><a href="https://www.federalreserve.gov/econres/notes/feds-notes/detecting-tariff-effects-on-consumer-prices-in-real-time-20250509.html">Detecting Tariff Effects on Consumer Prices in Real Time</a></strong><br>
 (with Mariano Somale)<br>
 <em>Updated:</em> May 2025<br>
@@ -48,7 +66,7 @@ Media: <em>Financial Times</em>, <em>Reuters</em>
 
 ## Working Papers
 
-<div style="margin-bottom:1em">
+<div class="paper-entry">
 <strong><a href="https://drive.google.com/file/d/1qeDvIhKRwJHhOrII9SJD2exzrDZlSwIz/view">How Firms Form Beliefs and the Implications for Inflation</a></strong><br>
 (with <a class="sec" href="https://sites.google.com/view/hugomonnery/home">Hugo Monnery</a>)<br>
 <em>Updated:</em> February 2026
@@ -57,7 +75,7 @@ Media: <em>Financial Times</em>, <em>Reuters</em>
 </details>
 </div>
 
-<div style="margin-bottom:1em">
+<div class="paper-entry">
 <strong><a href="https://drive.google.com/file/d/1EUouXP1jPVFidPpe__b4W8eD8cOLdjiF/view">Rising Interest Rates, Mortgage Rate Lock, and House Price Fluctuations</a></strong><br>
 (with <a class="sec" href="https://jdikatz.github.io/">Justin Katz</a>)<br>
 <em>Updated:</em> March 2026<br>
@@ -67,7 +85,7 @@ Media: <em>Financial Times</em>, <em>Reuters</em>
 </details>
 </div>
 
-<div style="margin-bottom:1em">
+<div class="paper-entry">
 <strong><a href="https://drive.google.com/file/d/1wW-xrFN4-ucDJkdGuv9uM8lSojdidrKm/view?usp=sharing">A Market Interpretation of Treatment Effects</a></strong><br>
 (with <a class="sec" href="https://economics.uchicago.edu/directory/casey-mulligan">Casey B. Mulligan</a>)<br>
 <em>Updated:</em> November 2024<br>
@@ -78,7 +96,7 @@ Previous version circulated as "Difference-in-Differences in the Marketplace" (<
 </details>
 </div>
 
-<div style="margin-bottom:1em">
+<div class="paper-entry">
 <strong><a href="https://www.anderson.ucla.edu/sites/default/files/document/2024-03/delayedinflation_in_supply_chains_manuscript.pdf">Delayed Inflation in Supply Chains: Theory and Evidence</a></strong><br>
 (with <a class="sec" href="https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/wheaton">Brian Wheaton</a>)<br>
 <em>Updated:</em> December 2023<br>
@@ -90,7 +108,7 @@ Media: <em>Wall Street Journal</em>
 </details>
 </div>
 
-<div style="margin-bottom:1em">
+<div class="paper-entry">
 <strong><a href="https://drive.google.com/file/d/1ZRs_N29wOtIjT6N60fHMz0MJrCF4OtqY/view?usp=sharing">Minimum Wages and the Rigid-wage Channel of Monetary Policy</a></strong><br>
 (with <a class="sec" href="https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/wheaton">Brian Wheaton</a>)<br>
 <em>Updated:</em> September 2023
@@ -99,7 +117,7 @@ Media: <em>Wall Street Journal</em>
 </details>
 </div>
 
-<div style="margin-bottom:1em">
+<div class="paper-entry">
 <strong><a href="https://drive.google.com/file/d/1wvZKYlRafRLQTWDVS1OscydRmeP1Vj9t/view?usp=sharing">Minimum Wages and Internal Migration</a></strong><br>
 (with <a class="sec" href="https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/wheaton">Brian Wheaton</a>)<br>
 <em>Updated:</em> June 2023
