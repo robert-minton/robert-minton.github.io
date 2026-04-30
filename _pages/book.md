@@ -4,14 +4,23 @@ title: ""
 author_profile: true
 ---
 
-<div style="display: flex; gap: 2em; align-items: flex-start; margin-bottom: 1.5em;">
-  <img src="/images/book_photo.png" alt="Chicago Price Theory cover" style="width: 300px; flex-shrink: 0;">
+<style>
+.book-header { display: flex; gap: 2em; align-items: flex-start; margin-bottom: 1.5em; }
+.book-header img { width: 300px; flex-shrink: 0; }
+@media (max-width: 600px) {
+  .book-header { flex-direction: column; align-items: center; }
+  .book-header img { width: 220px; }
+}
+</style>
+
+<div class="book-header">
+  <img src="/images/book_photo.png" alt="Chicago Price Theory cover">
   <div>
     <h2 style="margin-top: 0;">Chicago Price Theory (Expanded Second Edition)</h2>
     <p>With Sonia Jaffe, Casey B. Mulligan, and Kevin M. Murphy.</p>
     <p><a href="https://press.princeton.edu/books/hardcover/9780691280646/chicago-price-theory-second-edition">Princeton University Press</a>, 2026.</p>
     <p><a href="https://www.youtube.com/@chicagopricetheory/playlists">Video lectures</a></p>
-  </div>
+    </div>
 </div>
 
 From <a href="https://press.princeton.edu/books/hardcover/9780691280646/chicago-price-theory-second-edition">Princeton University Press</a>:
